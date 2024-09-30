@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "iron-foundry-259003",
+    "private_key_id": "57171757aaa295a98416b6b4ff95165e8a667254",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNbNLS9dI+gkoR\nONlar6ojt3n2zBASWAFUTUvBpdC4HEnOWKUdD1yhGDL3TViILiIB+25UaNCpRECh\n5Hp3/NK5D7Pwr0qjzPjHsShM9CZjnFUbvxwhkLgtYDYZa7d9zAvk4WDcHRtYGGKR\nctnLlx7YeFEwGHbnSrjCO0VsFsGbMrKG1gGCruCLGNCHSvE1xBgwaXdrqMIr+W0k\no8DTfFtuZ589CzBV+Q9Lyrc4IkubtioZ6Yom6xCju0P123mGVq+NdwpX3xe+MwLY\nfLVh2Znk0EVtgFay/+PW1gdifCqkm2bXeynxJLmWWxsOYpdaR6wlTTkq7rUDZo/o\nmNbig/lbAgMBAAECggEAFlof+npq/Qg6PPN9mwOANNCzAaqkmQpgYqbidlivhEj3\nsu8sUCQqxRCYAxa0amTyqFqOX7rj8XcOvU7aEJI+74oI30iDi50y+K+LHgx23OHW\n1OUPj4tqru1IFa4F0jdQl//6BRlZr1U/7GmdzyxLW+yDkQModPRJdED0xdUYDeXd\nWtAtIjGc7KEq7BiHfLwmr5mnrgtzNokR8Pb7qm4xVyiBHF/BZ1s/6M32D16CLk+4\nFwTZYS0zQWi4SCIevBCGy15EIfBWghYzMdBKOeE4ABqQL13FUkhICTHhKZNpi6z3\ndgisDeDI6BpDOvIgtT6vmXPmuWvcOolDAF5ujHwzAQKBgQDuzrqTY/XUBHrprg7s\nKi6jt0N3u7aCY5dQI1hcq6qYfzDhczaPc91FNZAhn+JIRSwfQr/kr153YZlihU3r\nJqlmov8LGmHXt4QpE7KN31Y7vV9tXAV/aVAcJft0yhRVx8NFG+bIDNYTqCm3CKyX\nH7qyWbvjkJQrOidV+kaNzIbGgQKBgQDcNtl8CSgCpQ5tWtoHXoZcrkSA3WP4RXKA\nltrb+ToO2XbZLyTfPJ+1+ypKcey9/IrjuCXKcVFZTJ2sa9XvOWYHeYbFCiLNkB38\nVutlW9VUs23RbexCTXhpVGEluz5Tw7toPVDjU3VIqtbXCYDhxcFSrXdD0jFEKZ6p\n/KE7Ta2p2wKBgQCvxM9E3uU4eVeymZ94KhAMBj6NaUeLLxxXKrzF8MBu3+cteWym\nJ4SshSEh7plR0kAIfkvZWU6xlc+c2TshomI7HiuUk4WCjhujVFEu5TyGWftb9chC\nIFSLc1Vif7556L+MJV42zmPfMf4KL0NBNGRpE20csPSt4G7FdKHriqeEgQKBgE4e\nwx5mXSQ7C5gtn6T3mnCsfa69WyaK9Gi7m15n1nnIGYpIWCs9ZWb4d/M64QIw4dCQ\n1g8wDezA6jptctJPqWtDaFTkGJ6V3p1S9GTbpB1NHcsq1KJcuzeacHAjMaQjjosX\nHWfXhobF3Dsiqu7s6Xz7/pA3s7R7k0a4UTYpg077AoGBAKb+XnPrmLcOuoAf3kN7\nYHgGLvuM9LpcgavJ+uIN0G4AHRd34DDqkXGqpnYonNm7pG35MqZ9dUA3F9Mxt50X\nHteP4wSp8GaA5U/EzdnaEo8URpAXQD/wY5JjHN8fLLhEDP926NfUtzFNuUH5G1jY\nExWOuc/1Ecd1Y506yBWH/UwI\n-----END PRIVATE KEY-----\n",
+    "client_email": "newmoon-sheet-helper@iron-foundry-259003.iam.gserviceaccount.com",
+    "client_id": "102412914037344798509",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newmoon-sheet-helper%40iron-foundry-259003.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
